@@ -1,8 +1,4 @@
-# hi, i'm lucas
-
 i really like computers
-
-### 🛠️ my setup
 - **pc:** GTX 970, Intel Core i7-6700k, 16GB RAM
 - **laptop:** tbh i dont know the specs but its running fedora (the best distro)
 - **phone:** iPhone 15
@@ -10,11 +6,7 @@ i really like computers
 - **3d printer:** flashforge adventurer 5m (0.4mm nozzle, textured PEI plate)
 - **consoles:** wii, 3ds (both modded)
 
-### 💻 what i'm working on
-- **automation stuff:** scripts to do my homework faster
-- **hardware projects:** messing around with the rpi and 3d printing parts for my setups
-- **game mods:** tweaking minecraft and other games because vanillas boring
-- **web things:** making sites that actually look decent
+working on automation stuff, hardware projects, game mods, web things and a few more
 
 ### 📦 some of my repos
 - `packing-helper` – cli tool to make sure you don't forget your stuff when traveling
