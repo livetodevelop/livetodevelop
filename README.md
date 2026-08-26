@@ -7,5 +7,5 @@ working on automation stuff, hardware projects, game mods, web things and a few 
 - `grammar-checker` – scans files for spelling errors before i submit assignments
 -  a lil proxy site very soon... 👀
 
-- discord: radioshacks
->  **note:** most of my code works. if something breaks, check the issues tab or just fix it yourself.
+>  **note:** if something breaks, shoot a dm i'll fix it when i get to it
+> - discord: radioshacks
